@@ -22,7 +22,10 @@
 1. Clone the repository or download the project files.
 2. Open `index.html` in your browser to launch the app.
 
-****Link for Project** :-https://drive.google.com/file/d/1fL1LCNVolTIbkRHzWLYw1lfniDeLosb4/view?usp=sharing
+****Link for Project** :-https://drive.google.com/file/d/1fL1LCNVolTIbkRHzWLYw1lfniDeLosb4/view?usp=sharing](https://aimemo.netlify.app/
+
+![Screenshot (207)](https://github.com/user-attachments/assets/0d2207ba-8554-4315-975e-c655130dc1f2)
+
 
 ## Usage
 
