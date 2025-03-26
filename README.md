@@ -24,7 +24,8 @@
 
 ****Link for Project** :-https://drive.google.com/file/d/1fL1LCNVolTIbkRHzWLYw1lfniDeLosb4/view?usp=sharing](https://aimemo.netlify.app/
 
-![Screenshot (207)](https://github.com/user-attachments/assets/0d2207ba-8554-4315-975e-c655130dc1f2)
+
+![memo](https://github.com/user-attachments/assets/d6744179-f9cf-438f-913c-902f0cac4a5f)
 
 
 ## Usage
